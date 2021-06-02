@@ -12,6 +12,6 @@ requests==2.23.0
 selenium==3.141.0
 six==1.14.0
 splinter==0.13.0
-urllib3==1.25.8
+urllib3==1.26.5
 websockets==8.1
 zope.interface==4.7.2
